@@ -32,12 +32,6 @@ a passionate Full Stack developer who loves learning and implementing whatever a
 
 ---
 
-### 🔧 Tools & Platforms
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-Would you also like a version where all categories are *inline in a single block*, no headings? (in case you're preparing a README "Skills" section, for example?) 🎯
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Gd2r&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gd2r&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
